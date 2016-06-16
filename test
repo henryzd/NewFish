@@ -1,1 +1,426 @@
 print 'test'
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<base href="http://www.99elon.com">
+	<meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="d0Q0Sk9DLk0NAWINAi1rPAMmW355GVgPATdnMCV6QQFBAgAsFwp0Cg==">
+
+	<title>义隆金融集团有限公司（ELAN FINANCIAL GROUP LIMITED）介绍</title>
+			<meta name="keywords" content="义隆金融,ELAN FINANCIAL GROUP LIMITED,义隆金融监管号"/>
+		<meta name="description" content="义隆金融集团有限公司（ELAN FINANCIAL GROUP LIMITED）经营业务受国际权威金融监管机构FSP权威监管。本栏目同时展示义隆金融多年来获得的奖项，是义隆荣誉的见证，这些荣誉离不开合作伙伴的鼎力支持。"/>
+			<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
+	<meta name="viewport" content="width=device-width"/>
+	<link rel="shortcut icon" href="http://sta.99elon.com/images/s32.ico" type="image/x-icon"/>
+	<script type="text/javascript">
+		AllApiUrl = "http://api.99elon.com/get/logs?code=";
+		singleApiUrl = "http://api.99elon.com/get/prices?code=";
+		financeApiUrl = "http://api.99elon.com/get/calendar?date=";
+		REQUEST_KEY = "15a4h5h6wera1f2#2%2#1s%wsf2%6#";
+		imgurl = 'http://sta.99elon.com/images';
+	 	videourl = 'http://sta.99elon.com/video';
+	</script>
+	<!--[if lt IE 9]>
+	<script src="http://sta.99elon.com/js/html5.js?=v2.1"  ></script>
+	<![endif]-->
+	<link href=http://sta.99elon.com/css/style.css?=v2.1 rel = stylesheet>
+	<!-- 全局js -->
+	<script src="http://sta.99elon.com/js/require.js?=v2.1" data-main="http://sta.99elon.com/js/app.js?=v2.1" ></script>
+	
+</head>
+<body>
+
+<header id="header" class="top_banner clears">
+	<div class="container_noover">
+		<div class="left_main fl head_top_clock"><span>伦敦<b>9:30:22</b></span><span>瑞士<b>9:30:22</b></span><span>纽约<b>9:30:22</b></span><span>香港<b>9:30:22</b></span><span>东京<b>9:30:22</b></span><a href="http://weibo.com/99elon" target="_blank"><i class="icon icon_minsina"></i></a><i class="icon icon_miniWechat header-icon " data-target="code-01"></i>
+		<div class="dimensionCode bg_white icon_dimensionCode absolute code-01 hide"></div>
+		</div>
+		<div class="right_main fr no_login_title hide"><a href="http://old.99elon.com/" class="red">旧版官网</a><a href="http://passport.99elon.com" ><span class="hvr-left">立即登陆</span></a></a><a href="http://passport.99elon.com/zhenshikaihu.html" target="_bank"><span class="hvr-left no_bobder">免费注册</span></a></div>
+		<div class="right_main fr over_login_title hide">您好,尊敬的 <em class="myName"></em><em class="user_sex"></em><em class="Exit"><a
+						href="http://passport.99elon.com/ilogin/logout">【退出】</a></em></a>
+		</div>
+	</div>
+</header>
+
+
+<link href=http://sta.99elon.com/css/builders.css?201606161552?=v2.1 rel = stylesheet>
+<div class="bg_white head">
+	<div class="container_noover bg_white">
+		<div class="dimensionCode bg_white icon_dimensionCode absolute code-01 hide"></div>
+		<div class="nav_header clears ">
+				<a href="/" title="义隆金融" >
+				<div class="relative fl logo_box roll">
+					<i class="icon icon_logo  absolute"></i>
+					<cite class="cartoon_box absolute">
+						<li><i class="LOGO_ roll_box icon"></i></li>
+						<li><i class="LOGO_active roll_box icon"></i></li>
+					</cite>
+				</div>
+				</a>
+			<nav>
+				<ul class="ul_li_fl clears nav_ul">
+					<li class="home_nav  "><a href="/">首页</a></li>
+																														<li >
+																	<a href="/guzhi.html" class="menu-1"   >金融产品</a>
+																<div class="header-column menu-1 hide">
+									<div class="container_noover">
+										<cite class="more-ul-nav">
+																																																																									<a href="/guzhi.html"   ><span class="nav-guzhi"><i class="icon icon_nav_guzhi"></i>股指</span></a>
+																																																																											<a href="/stock.html"   ><span class="nav-meigu"><i class="icon icon_nav_meigu"></i>美股</span></a>
+																																																																											<a href="/forex.html"   ><span class="nav-waihui"><i class="icon icon_nav_waihui"></i>外汇</span></a>
+																																																																											<a href="/oil.html"   ><span class="nav-yuanyou"><i class="icon icon_nav_yuanyou"></i>原油</span></a>
+																																																																											<a href="/metal.html"   ><span class="nav-guizhishu"><i class="icon icon_nav_guizhishu"></i>贵金属</span></a>
+																																																																											<a href="/spread.html"   ><span class="nav-baozhengjin"><i class="icon icon_nav_baozhengjin"></i>点差保证金汇总</span></a>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																		</cite>
+									</div>
+								</div>
+							</li>
+																																																																																																	<li >
+																	<a href="http://passport.99elon.com/zhenshikaihu.html" class="menu-2"   >开户交易</a>
+																<div class="header-column menu-2 hide">
+									<div class="container_noover">
+										<cite class="more-ul-nav">
+																																																																																																																																																																																																																																										<a href="http://passport.99elon.com/zhenshikaihu.html"  target="_blank"   ><span class="nav-real"><i class="icon icon_nav_real"></i>真户注册</span></a>
+																																																																											<a href="http://passport.99elon.com/monikaihu.html"  target="_blank"   ><span class="nav-simulate"><i class="icon icon_nav_simulate"></i>模拟注册</span></a>
+																																																																											<a href="http://passport.99elon.com/dailikaihu.html"  target="_blank"   ><span class="nav-agent"><i class="icon icon_nav_agent"></i>代理注册</span></a>
+																																																																											<a href="http://passport.99elon.com/ilogin/injection"   rel="nofollow"  ><span class="nav-synopsis"><i class="icon icon_nav_synopsis"></i>账户注资</span></a>
+																																																																											<a href="http://passport.99elon.com/with-draw.html"   rel="nofollow"  ><span class="nav-shortStay"><i class="icon icon_nav_shortStay"></i>账户取款</span></a>
+																																																																											<a href="/pending-transactions.html"   ><span class="nav-abnormal"><i class="icon icon_nav_abnormal"></i>挂单&异常</span></a>
+																																																																											<a href="/list/69.html"   ><span class="nav-softwareDown"><i class="icon icon_nav_softwareDown"></i>软件下载</span></a>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										</cite>
+									</div>
+								</div>
+							</li>
+																																																																																																																																													<li >
+																	<a href="http://www.99elon.com/preferential.html" class="menu-3"    >优惠活动</a>
+																<div class="header-column menu-3 hide">
+									<div class="container_noover">
+										<cite class="more-ul-nav">
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										</cite>
+									</div>
+								</div>
+							</li>
+																															<li >
+																	<a href="/market.html" class="menu-4"   >资讯研究</a>
+																<div class="header-column menu-4 hide">
+									<div class="container_noover">
+										<cite class="more-ul-nav">
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																														<a href="/market.html"   ><span class="nav-caijing"><i class="icon icon_nav_caijing"></i>财经资讯</span></a>
+																																																																																																																																																																																														<a href="/jiaoyicelve.html"   ><span class="nav-jiaoyi"><i class="icon icon_nav_jiaoyi"></i>交易策略</span></a>
+																																																																																																																																																																							<a href="/zhuanti.html"   ><span class="nav-remen"><i class="icon icon_nav_remen"></i>研究专题</span></a>
+																																																																																																																																																<a href="/feinong.html"   ><span class="nav-feinong"><i class="icon icon_nav_feinong"></i>非农专题</span></a>
+																																																																											<a href="/caijingrili.html"   ><span class="nav-rili"><i class="icon icon_nav_rili"></i>财经日历</span></a>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																</cite>
+									</div>
+								</div>
+							</li>
+																																																																																																																																																																																																																										<li >
+																	<a href="http://www.99elon.com/help.html" class="menu-5"    >帮助中心</a>
+																<div class="header-column menu-5 hide">
+									<div class="container_noover">
+										<cite class="more-ul-nav">
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																												<a href="/help/account.html"   rel="nofollow"  ><span class="nav-wenti"><i class="icon icon_nav_wenti"></i>常见问题</span></a>
+																																																																																																																																																																																														<a href="/help/kaihuzhinan.html"   rel="nofollow"  ><span class="nav-kaihu"><i class="icon icon_nav_kaihu"></i>开户交易</span></a>
+																																																																																																																																																<a href="/help/mt4/download.html"   rel="nofollow"  ><span class="nav-mt4"><i class="icon icon_nav_mt4"></i>MT4操作</span></a>
+																																																																																																																																																																																														<a href="/wiki/fried-golds"   ><span class="nav-baike"><i class="icon icon_nav_baike"></i>投资百科</span></a>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																						<a href="/zhuanyeshuyu.html"   rel="nofollow"  ><span class="nav-shuyu"><i class="icon icon_nav_shuyu"></i>专业术语</span></a>
+																																																																											<a href="/wenda.html"   rel="nofollow"  ><span class="nav-touzi"><i class="icon icon_nav_touzi"></i>投资问答</span></a>
+																																																																																																																																																																																																																																																																																																																																																									</cite>
+									</div>
+								</div>
+							</li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																															<li class="active">
+																	<a href="/about.html" class="menu-6"   >关于义隆</a>
+																<div class="header-column menu-6 hide">
+									<div class="container_noover">
+										<cite class="more-ul-nav">
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																			<a href="/about.html"   rel="nofollow"  ><span class="nav-jituan"><i class="icon icon_nav_jituan"></i>集团介绍</span></a>
+																																																																											<a href="/about/notice.html"   rel="nofollow"  ><span class="nav-gonggao"><i class="icon icon_nav_gonggao"></i>官方公告</span></a>
+																																																																											<a href="/about/news.html"   rel="nofollow"  ><span class="nav-news"><i class="icon icon_nav_news"></i>集团新闻</span></a>
+																																																																																																		<a href="/for-you.html"   ><span class="nav-guanjia"><i class="icon icon_nav_guanjia"></i>管家服务</span></a>
+																																																																											<a href="/about/partner.html"   rel="nofollow"  ><span class="nav-hezuo"><i class="icon icon_nav_hezuo"></i>合作伙伴</span></a>
+																																																																											<a href="/about/contact-us.html"   rel="nofollow"  ><span class="nav-lianxiwmen"><i class="icon icon_nav_lianxiwmen"></i>联系我们</span></a>
+																																																																											<a href="/about/safe.html"   rel="nofollow"  ><span class="nav-touzibaozhang"><i class="icon icon_nav_touzibaozhang"></i>投资保障</span></a>
+																																																																																																																																										</cite>
+									</div>
+								</div>
+							</li>
+																																																																																																																							<li >
+																	<a href="http://passport.99elon.com" class="menu-7"   >个人中心</a>
+																<div class="header-column menu-7 hide">
+									<div class="container_noover">
+										<cite class="more-ul-nav">
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										</cite>
+									</div>
+								</div>
+							</li>
+																																																</ul>
+			</nav>
+		</div>
+	</div>
+</div>
+<div class="container_noover help-centre relative">
+	<span class="location">您现在的位置：<a href="/">首页</a>
+                                                                                                                                                                                                >
+                        <a href="/about.html"   >关于义隆</a>
+					                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    > <a href="/about.html"   rel="nofollow"  >
+              集团介绍
+       </a>
+    </span>
+    <div class="left_nav fl">
+        <div class="help-title icon_nav_bg">
+            <h1>关于义隆</h1>
+        </div>
+        <ul class="help-centre-ul about_yilong_ul">
+            <li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                            <label  class="active"  > <a href="/about.html"   rel="nofollow"  >集团介绍</a></label>
+                                                                                                        
+                            <label  > <a href="/about/notice.html"   rel="nofollow"  >官方公告</a></label>
+                                                                                                        
+                            <label  > <a href="/about/news.html"   rel="nofollow"  >集团新闻</a></label>
+                                                                                                        
+                            <label  > <a href="/about/privacy.html"   >协议声明</a></label>
+                                                                                                                                    <label  ><a href="/for-you.html"   >管家服务</a></label>
+                                                                                                        
+                            <label  > <a href="/about/partner.html"   rel="nofollow"  >合作伙伴</a></label>
+                                                                                                        
+                            <label  > <a href="/about/contact-us.html"   rel="nofollow"  >联系我们</a></label>
+                                                                                                        
+                            <label  > <a href="/about/safe.html"   rel="nofollow"  >投资保障</a></label>
+                                                                        </li>
+        </ul>
+    </div>
+    <div class="right_center fl bg_white introduce-jituan ">
+                <!-- 集团介绍 -->
+                <div class="pad">
+                <h1 class="right_center_h1"><strong><i class="icon item_1"></i>集团介绍</strong></h1>
+                </div>
+                <div class="about_top_banner"></div>
+                 <div class="pad">
+                <p><b class="blue">义隆金融集团（ELAN FINANCIAL GROUP LIMITED）</b>1996年成立于英国，作为英国资深金融机构，为重点布局亚太地区一站式融合交易平台战略目标，于2010年率先在新西兰设立亚太总部，并随即在新加坡、日本、韩国、泰国、俄罗斯等国家建立分支机构。六年的时间，已为近百万名亚太各国投资者开启全球化投资时代！</p>
+                <div class="videos_about_ relative ">
+                <div class="video_position ">
+                <video  controls="controls" width="75%" height="400" poster="http://sta.99elon.com/images/logo_yl.jpg" >
+                 <source src="http://video.99elon.com/about_yl.mp4" type="video/mp4">
+                您的浏览器不支持 video 标签。
+                </video>
+                </div>
+                </div>
+                </div>
+                <div class="bg_gray">
+                <h1 class="right_center_h1"><strong><i class="icon item_2"></i>集团优势</strong></h1>
+                <p>义隆金融集团（ELAN FINANCIAL GROUP LIMITED）产品覆盖整个金融投资领域，24小时提供股指期货、原油、外汇、黄金、白银、美股等多元化环球金融产品在线交易，为您打造一站式投资盛宴。</p>
+                <p>通过义隆金融，您可以轻松享受来自全球市场公平透明的报价，以及优质稳定的交易执行。我们还为您提供专业独到的专家评论、海量的业界资讯先进的交易工具和丰富的学习资源。无论您的交易经验如何，义隆金融都将有针对性地帮助您在活跃的全球投资市场中更好地交易，是您投资历程中的可靠伙伴。</p>
+                <ul class="product_list_about clears">
+                    <li><i class="icon product_list_1"></i><cite class="f16">全球化投资交易产品体系</cite><div class="f12">黄金白银、外汇投资、原油、CN300等全球各大股指、美股</div></li>
+                    <li><i class="icon product_list_2"></i><cite class="f16">国际通用日内双向交易体系</cite><div class="f12">买涨买跌皆可盈利，高至600倍杠杆，100元当做60000元投资</div></li>
+                    <li><i class="icon product_list_3"></i><cite class="f16">管家式风险预警规避体系 </cite><div class="f12">1对1私人助理全程护航，管控您的仓位</div></li>
+                    <li><i class="icon product_list_4"></i><cite class="f16">20逾年精英团队分析体系</cite><div class="f12">CFA国际认证高级金融分析师、财经门户特约撰稿人、评论员22小时在线分析行情</div></li>
+                    <li><i class="icon product_list_5"></i><cite class="f16">24小时无缝对接咨询体系</cite><div class="f12">黄金白银、外汇投资、原油、CN300等全球各大股指、美股</div></li>
+                    <li><i class="icon product_list_6"></i><cite class="f16">全年无休提供专业服务，专人跟进，及时通知</cite><div class="f12">10秒钟极速开户，1小时资金到账，确保投资者资金灵活周转。</div></li>
+                </ul>
+                </div>
+                <div class="pad">
+                <h1 class="right_center_h1"><strong><i class="icon item_3"></i>服务理念</strong></h1>
+                <p>仁者精诚，业者精专。义隆金融集团（ELAN FINANCIAL GROUP LIMITED）贯彻遵循“一切为客户创造财富增值”的核心服务理念，以均衡科学的战略布局和产业结构、高素质专业化的企业团队，致力于产品、技术创新，确保了企业得到长期持续的发展。</p>
+                <p>随着市场竞争的不断加剧、客户的不断成熟，义隆金融集团（ELAN FINANCIAL GROUP LIMITED）也将以更好地满足投资者需求为导向，始终保持产品的前瞻性，为广大投资者提供更多、更满意的产品，从而稳固并提高市场地位，谋求长期稳定健康发展，确保股东价值、品牌价值、员工价值持续增值。</p>
+                </div>
+                <div class="about_fuwu_picture"></div>
+                <div class="bg_gray">
+                  <h1 class="right_center_h1"><strong><i class="icon item_4"></i>权威监管</strong></h1> 
+                  <p>义隆金融与多家权威金融机构签署资金托管协议，客户资金全部由第三方银行托管，并且所有业务与资金均由世界最严格的金融监管机构之一，新西兰FSP监管，注册牌照号：408528，保证资金的绝对安全。</p>
+                  <cite class="relative">
+                        <span class="quanwei_1 icon authority_about relative" id="max_certificate1"><div class="hide max_box"><img src="http://sta.99elon.com/images/max_certificate1.png" alt="" class="max_certificate1" style="left:0"></div></span>
+                        <span class="quanwei_2 icon authority_about relative" id="max_certificate2"><div class="hide max_box"><img src="http://sta.99elon.com/images/max_certificate2.png" alt="" class="max_certificate2"></div></span>
+                  </cite>
+                </div>
+                 <div class="pad">
+                 <h1 class="right_center_h1"><strong><i class="icon item_4"></i>环球办公室</strong></h1>
+                  <cite>
+                      <span class="address_about icon"></span>
+                  </cite>
+                 </div>
+                 <div class="pad">
+                 <h1 class="right_center_h1"><strong><i class="icon item_5"></i>公司荣誉</strong></h1>
+                 <ul class="ul_li_fl clears about_honnor_ul">
+                     <li><div class="icon honnor_1"></div></li>
+                     <li><div class="icon honnor_2"></div></li>
+                     <li><div class="icon honnor_3"></div></li>
+                     <li><div class="icon honnor_4"></div></li>
+                     <li><div class="icon honnor_5"></div></li>
+                     <li><div class="icon honnor_6"></div></li>
+                     <li><div class="icon honnor_7"></div></li>
+                     <li><div class="icon honnor_8"></div></li>
+                     <li><div class="icon honnor_9"></div></li>
+                     <li><div class="icon honnor_10"><d/vi></li>
+                 </ul>
+                 </div>
+                  <div class="bg_gray">
+                        <h1 class="right_center_h1"><strong><i class="icon item_6"></i>合作机构</strong></h1>
+                        <div class="about_collaborate"></div>
+                  </div>
+            </div>
+                        <div class='clear'></div>
+</div>
+<script>
+
+$(document).ready(function(){
+  $(".authority_about").hover(function(){
+        $(this).find('.max_box').show();
+    },function() {
+        $(this).find('.max_box').hide();
+    })
+    })
+
+</script>
+
+
+
+
+<div class="right_fixed fixed">
+	<ul class="keyPoint">
+		<li class="live_elon relative"><a href="http://hd.99elon.com" target="_blank">
+				<div>直播间</div>
+			</a></li>
+		<a href="http://www.99elon.com/list/69.html"><li class="f16 mt4_down_home"><div>MT4<br>下载</div></li></a>
+		<li class="link_me">
+			<i class="icon icon_minikefu"></i>
+			<div class="more bg_white linke-me-more transition hide">
+				<span style="width: 92px"><i class="icon icon-more-phone" title="400-038-8366"></i></span>
+				<span><a href="javascript:void(0);" onclick="window.open('http://crm2.qq.com/page/portalpage/wpa.php?uin=800005651&cref=&ref=&f=1&ty=1&ap=&as=', '_blank', 'height=544, width=644,toolbar=no,scrollbars=no,menubar=no,status=no');return false;" title="QQ客服"><i class="icon icon-more-qq"></i></a></span>
+				<span><a href="javascript:void(0);" onclick="javascript:window.open('http://chat56.live800.com/live800/chatClient/chatbox.jsp?companyID=171158&jid=8487522687&enterurl=http%3A%2F%2Fwww%2E99elon%2Ecom%2F&pagetitle=%E7%82%92%E9%BB%84%E9%87%91%E5%BC%80%E6%88%B7%2C%E7%99%BD%E9%93%B6%E5%BC%80%E6%88%B7%2C%E5%A4%96%E6%B1%87%E5%BC%80%E6%88%B7%E6%8A%95%E8%B5%84%E5%B9%B3%E5%8F%B0%2D%E4%B9%89%E9%9A%86%E9%87%91%E8%9E%8D&pagereferrer=&tm=1352968585224','','width=720,height=500,resizable=yes,scrollbars=yes,status=no');" title="在线客服"><i class="icon icon-more-kefu"></i></a></span>
+				<span><div>在线<br>咨询</div></span>
+			</div>
+		</li>
+		<li class="wap_go">
+			<i class="icon icon_minPhone"></i>
+
+			<div class="WapTip ">手机<br>站点</div>
+			<div class="more bg_white hide">
+				<i class="icon icon_wap-code"></i>
+			</div>
+		</li>
+		<li class="js-totop	">
+			<div class="return_top">返回<br>顶部</div>
+			<i class="icon icon_miniTop_arrows"></i>
+		</li>
+	</ul>
+</div>
+<div class="footer_column">
+	<ul class="ul_li_fl clears footer_column_ul f_no_login hide">
+				<a href="http://passport.99elon.com/zhenshikaihu.html" target="_bank"><li><i class="icon icon_footer_real"></i>开立真实账户</li></a>
+				<a href="http://passport.99elon.com/monikaihu.html" target="_bank"><li><i class="icon icon_footer_simulation"></i>开立模拟账户</li></a>
+				<a href="http://passport.99elon.com/ilogin/injection" target="_bank"><li><i class="icon icon_footer_inject"></i>账户注资</li></a>
+				<a href="javascript:void(0)" onclick="javascript:window.open('http://chat56.live800.com/live800/chatClient/chatbox.jsp?companyID=171158&jid=8487522687&enterurl=http%3A%2F%2Fwww%2E99elon%2Ecom%2F&pagetitle=%E7%82%92%E9%BB%84%E9%87%91%E5%BC%80%E6%88%B7%2C%E7%99%BD%E9%93%B6%E5%BC%80%E6%88%B7%2C%E5%A4%96%E6%B1%87%E5%BC%80%E6%88%B7%E6%8A%95%E8%B5%84%E5%B9%B3%E5%8F%B0%2D%E4%B9%89%E9%9A%86%E9%87%91%E8%9E%8D&pagereferrer=&tm=1352968585224','','width=720,height=500,resizable=yes,scrollbars=yes,status=no');"><li><i class="icon icon_footer_Wechat"></i>点我咨询</li></a>
+	</ul>
+	<ul class="ul_li_fl clears footer_column_ul   f_login hide">
+		<a href="http://passport.99elon.com">
+			<li class="transition "><i class="icon icon_footer_personage"></i>进入个人中心</li>
+		</a>
+		<a href="http://passport.99elon.com/ilogin/injection">
+			<li class="transition"><i class="icon icon_footer_inject"></i>账户注资</li>
+		</a>
+		<a href="http://passport.99elon.com/with-draw.html">
+			<li class="transition"><i class="icon icon_withdrawing"></i>账户取款</li>
+		</a>
+		<a href="javascript:void(0)" onclick="javascript:window.open('http://chat56.live800.com/live800/chatClient/chatbox.jsp?companyID=171158&jid=8487522687&enterurl=http%3A%2F%2Fwww%2E99elon%2Ecom%2F&pagetitle=%E7%82%92%E9%BB%84%E9%87%91%E5%BC%80%E6%88%B7%2C%E7%99%BD%E9%93%B6%E5%BC%80%E6%88%B7%2C%E5%A4%96%E6%B1%87%E5%BC%80%E6%88%B7%E6%8A%95%E8%B5%84%E5%B9%B3%E5%8F%B0%2D%E4%B9%89%E9%9A%86%E9%87%91%E8%9E%8D&pagereferrer=&tm=1352968585224','','width=720,height=500,resizable=yes,scrollbars=yes,status=no');">
+			<li class="transition"><i class="icon icon_footer_Wechat"></i>点我咨询</li>
+		</a>
+	</ul>
+	<span class="absolute packUp_footer">收起</span>
+</div>
+	<span class="unfold_footer f_show"><i class="icon icon_shortcut"></i></span>
+<div class="bg_white footer_main">
+	<div class="container">
+		<dl class="fl">
+			<dt>金融产品</dt>
+			<dd>
+				<div><a href="/guzhi.html" class="hvr-left" target="_bank">股指期货</a></div>
+				<div><a href="/stock.html" class="hvr-left" target="_bank">美 股</a></div>
+				<div><a href="/oil.html" class="hvr-left" target="_bank">原 油</a></div>
+				<div><a href="/forex.html" class="hvr-left" target="_bank">外 汇</a></div>
+				<div><a href="/metal.html" class="hvr-left" target="_bank">贵 金 属</a></div>
+			</dd>
+		</dl>
+		<dl class="fl">
+			<dt>开户交易</dt>
+			<dd>
+				<div><a href="http://passport.99elon.com/zhenshikaihu.html" class="hvr-left" target="_bank">真实账户</a></div>
+				<div><a href="http://passport.99elon.com/monikaihu.html" class="hvr-left" target="_bank">模拟账户</a></div>
+				<div><a href="/account-upgrade.html" class="hvr-left" target="_bank">账户简介</a></div>
+				<div><a href="/list/69.html" class="hvr-left" target="_bank">软件安装</a></div>
+			</dd>
+		</dl>
+		<dl class="fl">
+			<dt>代理加盟</dt>
+			<dd>
+				<div><a href="/daili.html" class="hvr-left" target="_bank">代理介绍</a></div>
+				<div><a href="http://passport.99elon.com/dailikaihu.html" class="hvr-left" target="_bank">代理开户</a></div>
+			</dd>
+		</dl>
+		<dl class="fl">
+			<dt>帮助中心</dt>
+			<dd>
+				<div><a href="/help/account.html" class="hvr-left" target="_bank">常见问题</a></div>
+				<div><a href="/help/kaihuzhinan.html" class="hvr-left" target="_bank">注册账号</a></div>
+				<div><a href="/help/injection.html" class="hvr-left" target="_bank">注资取款</a></div>
+				<div><a href="/zhuanyeshuyu.html" class="hvr-left" target="_bank">专业术语</a></div>
+			</dd>
+		</dl>
+		<dl class="fl about_yl">
+			<dt>关于义隆</dt>
+			<dd>
+				<div><a href="/about.html" class="hvr-left" target="_bank" rel="nofollow">集团介绍</a></div>
+				<div><a href="/about/notice.html" class="hvr-left" target="_bank" rel="nofollow">官方公告</a></div>
+				<div><a href="/about/privacy.html" class="hvr-left" target="_bank" rel="nofollow">协议声明</a></div>
+				<div><a href="/about/contact-us.html" class="hvr-left" target="_bank" rel="nofollow">联系我们</a></div>
+			</dd>
+		</dl>
+		<dl class="fl attention_we">
+			<dt>关注我们</dt>
+			<dd>
+				<div class="two-dimension_code icon icon_Code"></div>
+			</dd>
+		</dl>
+		<dl class="fl">
+			<dt>监管号码</dt>
+			<dd>
+				<div class="supervise icon icon_jianguanhao"></div>
+			</dd>
+		</dl>
+		<div class="clear"></div>
+		
+		<div class="relative footer_description_main">
+						<p class="footer_description">友情链接: 
+                        &nbsp;<a href="http://www.afinance.cn/gold/index.html"  rel="nofollow" target="_blank">第一金融网</a>&nbsp;
+                        &nbsp;<a href="http://finance.sina.com.cn/"  rel="nofollow" target="_blank">新浪财经</a>&nbsp;
+                        &nbsp;<a href="http://money.163.com/"  rel="nofollow" target="_blank">网易财经</a>&nbsp;
+                        &nbsp;<a href="http://www.fx678.com/"  rel="nofollow" target="_blank">汇通网</a>&nbsp;
+                        &nbsp;<a href="http://business.sohu.com/"  rel="nofollow" target="_blank">搜狐财经</a>&nbsp;
+                        </p>
+			            
+			<p class="footer_description">©义隆金融集团有限公司 All rights reserved | Copyright © 2011 - 2016  <script src="http://s13.cnzz.com/stat.php?id=3737726&web_id=3737726&show=pic1" language="JavaScript"></script> <script type="text/javascript">
+				var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+				document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F9a522fb37ed30e615177e49b9e7c277c' type='text/javascript'%3E%3C/script%3E"));
+				</script></p>
+			
+			<div class="foot_copy_save ">
+				<a target="_brank" href="http://webscan.360.cn/index/checkwebsite?url=www.99elon.com">
+				<i class="icon icon_360"></i>
+				</a>
+				
+				<span id="kx_verify"></span><script type="text/javascript">(function (){var _kxs = document.createElement('script');_kxs.id = 'kx_script';_kxs.async = true;_kxs.setAttribute('cid', 'kx_verify');_kxs.src = ('https:' == document.location.protocol ? 'https://ss.knet.cn' : 'http://rr.knet.cn')+'/static/js/icon3.js?sn=e15123181010062007hflw000000&tp=icon3';_kxs.setAttribute('size', 0);var _kx = document.getElementById('kx_verify');_kx.parentNode.insertBefore(_kxs, _kx);})();</script>
+				
+			</div>
+            
+		</div>
+	</div>
+</div>
+<script src="http://sta.99elon.com/js/tongji.min.js?20160510"></script>
+
+</body>
+</html>
+
